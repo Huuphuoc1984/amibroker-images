@@ -1,0 +1,102 @@
+[2025-06-18 08:25:23] 
+==================================================
+[2025-06-18 08:25:23] Bắt đầu quy trình tự động hóa
+[2025-06-18 08:25:23] 
+Đang thực hiện: Xử lý AmiBroker...
+[2025-06-18 08:25:23] 
+=== BẮT ĐẦU XỬ LÝ AMIBROKER ===
+[2025-06-18 08:25:24] Đang tắt tiến trình RuntimeBroker.exe (PID: 3332)
+[2025-06-18 08:25:24] Đang tắt tiến trình RuntimeBroker.exe (PID: 3548)
+[2025-06-18 08:25:24] Đang tắt tiến trình RuntimeBroker.exe (PID: 6036)
+[2025-06-18 08:25:24] Đang tắt tiến trình UserOOBEBroker.exe (PID: 10036)
+[2025-06-18 08:25:24] Đang tắt tiến trình RuntimeBroker.exe (PID: 17232)
+[2025-06-18 08:25:24] Đang tắt tiến trình RuntimeBroker.exe (PID: 18656)
+[2025-06-18 08:25:27] Đang khởi động AmiBroker...
+[2025-06-18 08:25:37] Đang thực hiện: Click ban đầu
+[2025-06-18 08:25:37] Click tại (600, 70) thành công (lần thử 1)
+[2025-06-18 08:25:42] Click tại (300, 120) thành công (lần thử 1)
+[2025-06-18 08:25:48] Click tại (300, 300) thành công (lần thử 1)
+[2025-06-18 08:25:53] Đang thực hiện: Copy dữ liệu
+[2025-06-18 08:26:03] Đang thực hiện: Xử lý tiếp theo
+[2025-06-18 08:26:03] Click tại (400, 880) thành công (lần thử 1)
+[2025-06-18 08:26:08] Click tại (250, 550) thành công (lần thử 1)
+[2025-06-18 08:26:13] Click tại (100, 270) thành công (lần thử 1)
+[2025-06-18 08:26:18] Đang thực hiện: Paste và lưu
+[2025-06-18 08:26:27] 
+Đang thực hiện: Chụp biểu đồ...
+[2025-06-18 08:26:27] 
+=== BẮT ĐẦU CHỤP ẢNH BIỂU ĐỒ ===
+[2025-06-18 08:26:28] Click tại (410, 870) thành công (lần thử 1)
+[2025-06-18 08:26:31] Click tại (320, 550) thành công (lần thử 1)
+[2025-06-18 08:26:34] Đang xử lý Chinh.png tại (1060, 840)...
+[2025-06-18 08:26:34] Click tại (1060, 840) thành công (lần thử 1)
+[2025-06-18 08:26:34] Đã lưu ảnh: Chinh.png (lần thử 1)
+[2025-06-18 08:26:35] Đang xử lý Phu.png tại (1150, 840)...
+[2025-06-18 08:42:19] 
+==================================================
+[2025-06-18 08:42:19] BẮT ĐẦU QUY TRÌNH TỰ ĐỘNG HÓA
+[2025-06-18 08:42:19] 
+Đang thực hiện: Xử lý AmiBroker...
+[2025-06-18 08:42:19] 
+=== BẮT ĐẦU XỬ LÝ AMIBROKER ===
+[2025-06-18 08:42:19] Đang tắt tiến trình UserOOBEBroker.exe (PID: 812)
+[2025-06-18 08:42:19] Đang tắt tiến trình RuntimeBroker.exe (PID: 4948)
+[2025-06-18 08:42:19] Đang tắt tiến trình Broker.exe (PID: 8788)
+[2025-06-18 08:42:22] Đang khởi động AmiBroker...
+[2025-06-18 08:42:32] Click các tọa độ ban đầu...
+[2025-06-18 08:42:32] Click tại (600, 70) thành công (lần thử 1)
+[2025-06-18 08:42:48] Click tại (300, 120) thành công (lần thử 1)
+[2025-06-18 08:43:03] Click tại (300, 300) thành công (lần thử 1)
+[2025-06-18 08:43:18] Thực hiện Ctrl+A và Ctrl+C...
+[2025-06-18 08:43:25] Click các tọa độ tiếp theo...
+[2025-06-18 08:43:25] Click tại (400, 880) thành công (lần thử 1)
+[2025-06-18 08:43:30] Click tại (250, 550) thành công (lần thử 1)
+[2025-06-18 08:43:35] Click tại (100, 270) thành công (lần thử 1)
+[2025-06-18 08:43:45] Hoàn thành xử lý AmiBroker
+[2025-06-18 08:43:45] 
+Đang thực hiện: Chụp biểu đồ...
+[2025-06-18 08:43:45] 
+=== BẮT ĐẦU CHỤP ẢNH BIỂU ĐỒ ===
+[2025-06-18 08:43:46] Click tại (410, 870) thành công (lần thử 1)
+[2025-06-18 08:43:49] Click tại (320, 550) thành công (lần thử 1)
+[2025-06-18 08:43:52] Đang xử lý Chinh.png tại (1060, 840)...
+[2025-06-18 08:43:52] Click tại (1060, 840) thành công (lần thử 1)
+[2025-06-18 08:43:52] Đã lưu ảnh: Chinh.png
+[2025-06-18 08:43:53] Đang xử lý Phu.png tại (1150, 840)...
+[2025-06-18 08:43:53] Click tại (1150, 840) thành công (lần thử 1)
+[2025-06-18 08:43:53] Đã lưu ảnh: Phu.png
+[2025-06-18 08:43:54] Đang xử lý Bank.png tại (1240, 840)...
+[2025-06-18 08:43:54] Click tại (1240, 840) thành công (lần thử 1)
+[2025-06-18 08:43:54] Đã lưu ảnh: Bank.png
+[2025-06-18 08:43:55] Đang xử lý Banle.png tại (980, 840)...
+[2025-06-18 08:43:55] Click tại (980, 840) thành công (lần thử 1)
+[2025-06-18 08:43:55] Đã lưu ảnh: Banle.png
+[2025-06-18 08:43:56] Đang xử lý Bds.png tại (640, 840)...
+[2025-06-18 08:43:57] Click tại (640, 840) thành công (lần thử 1)
+[2025-06-18 08:43:57] Đã lưu ảnh: Bds.png
+[2025-06-18 08:43:58] Đang xử lý Chung.png tại (890, 840)...
+[2025-06-18 08:43:58] Click tại (890, 840) thành công (lần thử 1)
+[2025-06-18 08:43:58] Đã lưu ảnh: Chung.png
+[2025-06-18 08:43:59] Đang xử lý Dtc.png tại (370, 840)...
+[2025-06-18 08:43:59] Click tại (370, 840) thành công (lần thử 1)
+[2025-06-18 08:43:59] Đã lưu ảnh: Dtc.png
+[2025-06-18 08:44:00] Đang xử lý HC-Phanbon-NN.png tại (730, 840)...
+[2025-06-18 08:44:00] Click tại (730, 840) thành công (lần thử 1)
+[2025-06-18 08:44:00] Đã lưu ảnh: HC-Phanbon-NN.png
+[2025-06-18 08:44:01] Đang xử lý KCN.png tại (280, 840)...
+[2025-06-18 08:44:01] Click tại (280, 840) thành công (lần thử 1)
+[2025-06-18 08:44:01] Đã lưu ảnh: KCN.png
+[2025-06-18 08:44:02] Đang xử lý Phongthu.png tại (810, 840)...
+[2025-06-18 08:44:03] Click tại (810, 840) thành công (lần thử 1)
+[2025-06-18 08:44:03] Đã lưu ảnh: Phongthu.png
+[2025-06-18 08:44:04] Đang xử lý Thep.png tại (550, 840)...
+[2025-06-18 08:44:04] Click tại (550, 840) thành công (lần thử 1)
+[2025-06-18 08:44:04] Đã lưu ảnh: Thep.png
+[2025-06-18 08:44:05] Đang xử lý Xuatkhau.png tại (460, 840)...
+[2025-06-18 08:44:05] Click tại (460, 840) thành công (lần thử 1)
+[2025-06-18 08:44:05] Đã lưu ảnh: Xuatkhau.png
+[2025-06-18 08:44:06] Hoàn thành chụp ảnh biểu đồ
+[2025-06-18 08:44:06] 
+Đang thực hiện: Đồng bộ GitHub...
+[2025-06-18 08:44:06] 
+=== BẮT ĐẦU ĐẨY LÊN GITHUB ===
